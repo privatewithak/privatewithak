@@ -1,4 +1,13 @@
-## Hi there 👋
+# \^o^/
+
+## Hi there 👋 I'm privatewithak.
+### - 🥸 Currently learning HTML, CSS and JavaScript
+
+
+- 📫 How to reach me: Discord: privatewithakreal
+- 🗣️ Pronouns: he/him
+
+- ⛔ Nothing else. Maybe will be completed further in future..
 
 <!--
 **privatewithak/privatewithak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
