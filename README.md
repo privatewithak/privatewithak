@@ -4,7 +4,7 @@
 ### - 🥸 Currently learning HTML, CSS and JavaScript
 
 
-> - 📫 How to reach me: Discord: privatewithakreal
+> - 📫 How to reach me: Discord: privatewithak
 > - 🗣️ Pronouns: he/him
 >
 > - ⛔ Nothing else. Maybe will be completed further in future..
