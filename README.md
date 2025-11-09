@@ -1,12 +1,12 @@
 # \^o^/
 
 ## Hi there 👋 I'm privatewithak.
-### - 🥸 Currently learning HTML, CSS and JavaScript
+### - 🥸 Currently learning Node.js, ExpressJS, NextJS.
 
 
 > - 📫 How to reach me: Discord: privatewithak
 > - 🗣️ Pronouns: he/him
->
+> - 📓 Stack: HTML, CSS, Tailwind, Git, React, Material UI
 > - ⛔ Nothing else. Maybe will be completed further in future..
 
 <!--
