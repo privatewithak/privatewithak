@@ -49,7 +49,7 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- build more real-world projects with React + Node  
 \- ship at least one full-stack pet project  
 \- get comfortable with testing & CI/CD  
-\- level up to a solid junior frontend dev
+\- level up to a solid middle level frontend dev
 
 ---
 
