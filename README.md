@@ -1,15 +1,17 @@
 # ^o^/
 
-## hi, i'm denis (aka **privatewithak**) 👋  
-frontend dev in progress — i like building clean and a bit too-perfect websites
+## hi, i'm privatewithak👋  
+frontend dev — i like building clean and a bit too-perfect websites.
 
 ---
 
 ### 🧑‍💻 about me
 
-- denis · he/him  
-- computer science student
-- editor: **VS Code**  
+- name: denis  
+- pronouns: he/him  
+- role: frontend developer 
+- focus: layouts, components & state  
+- editor: VS Code  
 - discord: **privatewithak**
 
 ---
@@ -24,7 +26,7 @@ frontend dev in progress — i like building clean and a bit too-perfect website
 - Node.js (basics)
 
 #### tools
-- Git & GitHub  
+- Git / GitHub  
 - npm  
 - browser devtools
 
@@ -47,6 +49,7 @@ frontend dev in progress — i like building clean and a bit too-perfect website
 - build more real-world projects with React + Node  
 - ship at least one full-stack pet project  
 - get comfortable with testing & CI/CD  
+- level up to a solid junior frontend dev
 
-
+---
 
