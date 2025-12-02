@@ -1,25 +1,28 @@
 # \^o^/
 
-## Hi there 👋 I'm privatewithak.
-### - 🥸 Currently learning Node.js, ExpressJS, NextJS.
+## hi 👋 i'm privatewithak.
+#### im enjoying making cool and beautiful websites
+
+### info
+Denis
+he/him
+i use vs code
+discord: privatewithak
+
+### stack
+- html/css
+- js es6+
+- react 19
+- tailwind 4
+- node.js
+
+### looking to learn
+- express.js
+- next.js
+- ci/cd
+- jest
+- typescript
+- redux
+- postgreSQL
 
 
-> - 📫 How to reach me: Discord: privatewithak
-> - 🗣️ Pronouns: he/him
-> - 📓 Stack: HTML, CSS, Tailwind, Git, React, Material UI
-> - ⛔ Nothing else. Maybe will be completed further in future..
-
-<!--
-**privatewithak/privatewithak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
