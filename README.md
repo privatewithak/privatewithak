@@ -10,7 +10,7 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- name: denis  
 \- pronouns: he/him  
 \- role: frontend developer 
-\- focus: layouts, components & state  
+ 
 \- editor: VS Code  
 \- discord: **privatewithak**
 
