@@ -34,7 +34,7 @@ frontend dev — i like building clean and a bit too-perfect websites.
 
 ### 📚 currently learning / next up
 
-\- Express.js  
+\- Fastify  
 \- Next.js  
 \- CI/CD basics (GitHub Actions, pipelines etc.)  
 \- Jest (testing)  
