@@ -23,9 +23,9 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- JavaScript (ES6+)  
 \- React  
 \- Tailwind CSS  
-\- Node.js (basics)
+\- Node.js (basics)  
+\- TypeScript  
 
-\- TypeScript
 
 #### tools
 \- Git / GitHub  
