@@ -24,6 +24,7 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- React  
 \- Tailwind CSS  
 \- Node.js (basics)
+\- TypeScript
 
 #### tools
 \- Git / GitHub  
@@ -38,7 +39,7 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- Next.js  
 \- CI/CD basics (GitHub Actions, pipelines etc.)  
 \- Jest (testing)  
-\- TypeScript  
+
 \- Redux / state management  
 \- PostgreSQL
 
