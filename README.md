@@ -22,12 +22,12 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- HTML / CSS  
 \- JavaScript (ES6+)  
 \- React  
-\- Next.js 
+\- Next.js  
 \- Tailwind CSS  
-\- Node.js (basics) 
-\- Bun 
-\- Elysia 
-\- TypeScript  
+\- Node.js (basics)  
+\- Bun  
+\- Elysia  
+\- TypeScript
 
 
 #### tools
