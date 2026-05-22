@@ -22,8 +22,11 @@ frontend dev — i like building clean and a bit too-perfect websites.
 \- HTML / CSS  
 \- JavaScript (ES6+)  
 \- React  
+\- Next.js 
 \- Tailwind CSS  
-\- Node.js (basics)  
+\- Node.js (basics) 
+\- Bun 
+\- Elysia 
 \- TypeScript  
 
 
@@ -36,19 +39,15 @@ frontend dev — i like building clean and a bit too-perfect websites.
 
 ### 📚 currently learning / next up
 
-\- Fastify  
-\- Next.js  
-\- CI/CD basics (GitHub Actions, pipelines etc.)  
-\- Jest (testing)  
 
-\- Redux / state management  
+\- CI/CD basics (GitHub Actions, pipelines etc.)  
+\- Jest (testing)    
 \- PostgreSQL
 
 ---
 
 ### 🎯 goals
-
-\- build more real-world projects with React + Node  
+ 
 \- ship at least one full-stack pet project  
 \- get comfortable with testing & CI/CD  
 \- level up to a solid middle level frontend dev
